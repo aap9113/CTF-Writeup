@@ -6,7 +6,7 @@
 
 <hr>
 
-![challenge](\Artifacts\0-chall.png)
+![challenge](/Artifacts/0-chall.png)
 
 - We get a binary, a source code file and a remote server to connect to.
 - We can analyze the binary using ghidra or use the source code.
